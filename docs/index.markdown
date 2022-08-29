@@ -7,7 +7,7 @@ layout: home
 
 <img src="https://s.gravatar.com/avatar/36d72571cae1dfb1780e5d329b9fc24c?s=300" width="100"/>
 
-### Technical Architect
+### Software Architect / Developer
 Chennai, Tamil Nadu
 
 aanandnatarajan@outlook.com / aanand@gmail.com
@@ -64,10 +64,11 @@ Ruby Association Certified - Ruby Programmer Silver 2.1
 ---
 
 ### Experience
-Currently employed with Hotfoot Technology Solutions as Technical Specialist. And was a part of
-1. DXC Technology (Computer Sciences Corporation)
-2. Royal Bank of Scotland
-3. HCL Technologies
+Currently employed with CloudSense as Principal Software Engineer. And was a part of
+1. Hotfoot Technology Solutions
+2. DXC Technology (Computer Sciences Corporation)
+3. Royal Bank of Scotland
+4. HCL Technologies
 
 
 ---
