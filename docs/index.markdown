@@ -7,12 +7,12 @@ layout: home
 
 <img src="https://s.gravatar.com/avatar/36d72571cae1dfb1780e5d329b9fc24c?s=300" width="100"/>
 
-### Software Architect / Developer
+### Principal Staff Engineer / Architecture
 Chennai, Tamil Nadu
 
 aanandnatarajan@outlook.com / aanand@gmail.com
 
-A passionate polyglot developer with more than a decade of experience in application design & development for various industries like Finance, Human Resource, Asset Management, CRM, eCommerce etc.
+A passionate polyglot developer with more than two decade of experience in application design & development for various industries like Finance, Human Resource, Asset Management, CRM, eCommerce etc.
 
 Interested in microservices style of architecture and also a fan of majestic monoliths. Loves clean Object Oriented code with an even sprinkle of Functional programming.
 
@@ -30,25 +30,25 @@ Madras University
 
 ### Skills
 ###### Programming Languages
-Java, JavaScript, Ruby, TypeScript, PHP, Go
+Java, JavaScript, TypeScript, Ruby, Go, PHP
 ###### Markup & Stylesheets
 HTML/CSS, XML/XSLT, YAML
 ###### CSS
 Bootstrap, Bulma
 ###### Databases
-MySQL, Oracle, SQLServer, PostgreSQL
+PostgreSQL, MySQL, Oracle, SQLServer
 ###### Frameworks
-Spring & Spring Boot, NestJS, Apache CXF, Rails, WordPress
+Spring & Spring Boot, Fastify, AdonisJS, NestJS
 ###### Persistence
-JPA, eBean, Hibernate, Spring-JDBC
+Sequelize, Knex, JPA, eBean, Hibernate, Spring-JDBC
 ###### JavaScript libraries/frameworks
-jQuery, React, VueJs, Axios
+React, VueJs, Axios, jQuery 
 ###### Web & App Servers
 nginx, httpd, Tomcat, Jetty, WebSphere
 ###### Message Queue/Broker
 RabbitMQ, ActiveMQ, WebSphereMQ
 ###### Cache
-Hazelcast, EHCache, Oracle Coherence, Guava Cache
+Redis, Hazelcast, EHCache, Oracle Coherence, Guava Cache
 
 ---
 
