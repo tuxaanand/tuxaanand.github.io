@@ -49,6 +49,8 @@ nginx, httpd, Tomcat, Jetty, WebSphere
 RabbitMQ, ActiveMQ, WebSphereMQ
 ###### Cache
 Redis, Hazelcast, EHCache, Oracle Coherence, Guava Cache
+###### Environment & Deployment
+Docker, Kubernetes
 
 ---
 
