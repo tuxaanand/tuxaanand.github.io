@@ -2,8 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+# layout: home
 ---
+<!-- @import "{{ site.theme }}"; -->
 
 <img src="https://s.gravatar.com/avatar/36d72571cae1dfb1780e5d329b9fc24c?s=300" width="100"/>
 
@@ -12,7 +13,7 @@ Chennai, Tamil Nadu
 
 aanandnatarajan@outlook.com / aanand@gmail.com
 
-A passionate polyglot developer with more than two decade of experience in application design & development for various industries like Finance, Human Resource, Asset Management, CRM, eCommerce etc.
+A passionate polyglot developer with more than two decades of experience in application design & development for various industries like Finance, Human Resource, Asset Management, CRM, eCommerce etc.
 
 Interested in microservices style of architecture and also a fan of majestic monoliths. Loves clean Object Oriented code with an even sprinkle of Functional programming.
 
