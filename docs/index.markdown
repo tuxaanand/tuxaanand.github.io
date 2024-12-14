@@ -56,6 +56,10 @@ Docker, Kubernetes
 ---
 
 ### Certifications
+<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="90" height="90"/>
+
+CKAD: Certified Kubernetes Application Developer
+
 <img src="https://images.credly.com/size/180x180/images/3e1a7290-fade-4be4-9bcd-1a7743294a81/Oracle_Professional_Badge__1_.png" width="90" height="90"/>
 
 Oracle Certified Professional - Java 8.0
