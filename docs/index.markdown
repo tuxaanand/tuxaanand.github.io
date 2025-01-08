@@ -33,7 +33,7 @@ Madras University
 ###### Programming Languages
 Java, JavaScript, TypeScript, Ruby, Go, PHP
 ###### Markup & Stylesheets
-HTML/CSS, XML/XSLT, YAML
+HTML/CSS, JSON, YAML, XML/XSLT
 ###### CSS
 Bootstrap, Bulma
 ###### Databases
