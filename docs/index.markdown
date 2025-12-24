@@ -71,11 +71,12 @@ Ruby Association Certified - Ruby Programmer Silver 2.1
 ---
 
 ### Experience
-Currently employed with CloudSense as Principal Software Engineer. And was a part of
-1. Hotfoot Technology Solutions
-2. DXC Technology (Computer Sciences Corporation)
-3. Royal Bank of Scotland
-4. HCL Technologies
+Currently employed with Ryewalk as Principal Software Engineer. And was a part of
+1. CloudSense
+2. Hotfoot Technology Solutions
+3. DXC Technology (Computer Sciences Corporation)
+4. Royal Bank of Scotland
+5. HCL Technologies
 
 
 ---
